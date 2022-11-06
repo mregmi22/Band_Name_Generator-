@@ -1,6 +1,6 @@
 # helping people to come up with a band name when they can't think of one by asking questions about themselves
 
-#prompt user for name
+#greet the user 
 print("Welcome to band name genenator ")
 city = input ("which city did you grew in? \n") 
 pet = input ("what is your pet name? \n")
